@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jamaine!
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning WebDev, JavaScript, Databases <33
+- 💞️ I’m looking to collaborate on Web Development Projects ✨
+- 📫 How to reach me: @tuazonjamaine12@gmail.com
